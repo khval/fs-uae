@@ -6485,7 +6485,7 @@ const struct cpuboardtype cpuboards[] = {
 	}
 };
 
-const struct memoryboardtype memoryboards[]
+const struct memoryboardtype memoryboards[] =
 {
 	// z2
 	{
